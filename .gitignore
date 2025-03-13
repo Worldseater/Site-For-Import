@@ -1,1 +1,5 @@
-tmp/ *.old *.backup Thumbs.db .DS_Store 
+tmp/
+*_old
+*_backup
+Thumbs.db
+.DS_Store
